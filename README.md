@@ -112,7 +112,7 @@ Models used include:
   Helpful for users with limited access to medical professionals.
 
 ---
-[11:51 AM, 12/9/2025] SAMPANGI 🐣: # 🩺 MedQuAD Medical Q&A Chatbot
+ # 🩺 MedQuAD Medical Q&A Chatbot
 
 A *domain-specific chatbot* for answering medical and health-related questions using the *NIH MedQuAD dataset. The chatbot combines **semantic search* and a *contextual question-answering model* to provide accurate, refined answers.
 
